@@ -1,0 +1,7 @@
+name: chainable
+description: Utility to composite functions into single callable chain
+version: 0.1.0
+author: Roman Vanesyan <romain.vanesyan@gmail.com>
+homepage: https://github.com/vanesyan/chainable.dart
+environment:
+  sdk: '>=1.24.0 <2.0.0'
